@@ -76,8 +76,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/ai_mock_interviews.git
-cd ai_mock_interviews
+https://github.com/hiiiHimanshu/-PrepFlow---Smooth-preparation-experience.git
 ```
 
 **Installation**
